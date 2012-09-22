@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/admin-bundle",
+    "name": "mukulu/admin-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataAdminBundle",
     "keywords": ["Admin Generator", "admin", "sonata", "bootstrap"],
@@ -26,7 +26,7 @@
         "knplabs/knp-menu-bundle": "1.1.*",
         "sonata-project/jquery-bundle": "dev-master",
         "sonata-project/exporter": "dev-master",
-        "sonata-project/block-bundle": "2.0.*"
+        "mukulu/block-bundle": "2.0.*"
     },
     "require-dev": {
         "jms/translation-bundle": "*"
